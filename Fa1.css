@@ -1,0 +1,26 @@
+form{
+    float: right;
+    padding: 20px;
+    background-color: #00F7FF;
+    opacity: 80%;
+    
+}
+input:hover,select:hover{
+    background-color: lightgray;
+    
+}
+body{
+    background: url(ocean.jpg);
+    font-family: sans-serif;
+}
+header{
+    padding: 30px;
+    background-color:#07EACB;
+    opacity: 70%;
+}
+article{
+    padding: 20px;
+    background-color: whitesmoke;
+    opacity: 70%;
+    margin-right: 300px;
+}
